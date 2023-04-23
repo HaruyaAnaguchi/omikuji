@@ -1,1 +1,2 @@
-# 研修課題です　　HTML/CSS/JavaScriptファイルです。
+# 研修課題
+HTML/CSS/JavaScriptファイルです。
